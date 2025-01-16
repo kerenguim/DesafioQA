@@ -1,4 +1,4 @@
-# Desafio QA - Preço Justo
+# Desafio QA
 
 Este projeto implementa uma automação usando Selenium para acessar o site [4Devs](https://www.4devs.com.br/gerador_de_cpf) e gerar CPF até encontrar um número que comece com 7. Cada CPF gerado é exibido no console indicando se começa ou não com 7.
 
